@@ -1,6 +1,0 @@
-
-'''
-pyinstaller
-py2exe
-
-'''
